@@ -1,7 +1,7 @@
 apiVersion: v1
 entries:
   myapp:
-  - created: 2017-06-06T15:12:23.173456801+03:00
+  - created: 2017-06-06T15:12:57.252920435+03:00
     description: A Helm chart template for Kubernetes charts repository
     digest: 738808f218f613c419512d8148024d7dc49d2d21c373f7c1748b74ecbb8aef02
     engine: gotpl
@@ -15,7 +15,7 @@ entries:
     urls:
     - https://antonvash.github.io/mycharts/myapp-0.0.6.tgz
     version: 0.0.6
-  - created: 2017-06-06T15:12:23.17292449+03:00
+  - created: 2017-06-06T15:12:57.252627259+03:00
     description: A Helm chart template for Kubernetes charts repository
     digest: f18546f1b3708ed4b57c58662d0f220b2eead136b10a71019a345e9fbad0d7ba
     engine: gotpl
@@ -29,4 +29,4 @@ entries:
     urls:
     - https://antonvash.github.io/mycharts/myapp-0.0.5.tgz
     version: 0.0.5
-generated: 2017-06-06T15:12:23.171597851+03:00
+generated: 2017-06-06T15:12:57.251590278+03:00
