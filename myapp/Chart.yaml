@@ -3,7 +3,7 @@ description: A Helm chart template for Kubernetes charts repository
 version: 0.0.5
 home: https://k8s.community/
 sources:
-  - https://github.com/k8s-community/myapp
+  - https://github.com/antonvash/myapp
 maintainers:
   - name: Kubernetes Community
     email: k8s.community@gmail.com
